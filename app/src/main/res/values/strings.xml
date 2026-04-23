@@ -1,0 +1,14 @@
+<resources>
+    <!-- ...keep your existing strings... -->
+
+    <string name="explore_title">Safety tips &amp; nearby resources</string>
+    <string name="explore_tips">
+        • Share live location with trusted contacts\n
+        • Stay in well-lit areas\n
+        • Use public transport where possible\n
+        • Keep phone charged
+    </string>
+    <string name="explore_note">
+        (You can replace this screen with a Map or API-powered resources later.)
+    </string>
+</resources>
