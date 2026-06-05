@@ -120,14 +120,15 @@
             <ImageView
                 android:layout_width="28dp"
                 android:layout_height="28dp"
-                android:src="@android:drawable/ic_menu_view"
+                android:src="@drawable/home"
                 app:tint="#000000"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Home"
-                android:textColor="#000000"/>
+                android:textColor="#000000"
+                android:textStyle="bold" />
         </LinearLayout>
 
         <LinearLayout
@@ -141,13 +142,14 @@
             <ImageView
                 android:layout_width="28dp"
                 android:layout_height="28dp"
-                android:src="@android:drawable/ic_menu_myplaces"
+                android:src="@drawable/contact"
                 app:tint="#000000"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Circle"
+                android:text="Contacts"
+                android:textStyle="bold"
                 android:textColor="#000000"/>
         </LinearLayout>
 
@@ -162,13 +164,14 @@
             <ImageView
                 android:layout_width="28dp"
                 android:layout_height="28dp"
-                android:src="@android:drawable/ic_menu_search"
+                android:src="@drawable/menu"
                 app:tint="#000000"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Explore"
+                android:textStyle="bold"
                 android:textColor="#000000"/>
         </LinearLayout>
 
@@ -183,13 +186,14 @@
             <ImageView
                 android:layout_width="28dp"
                 android:layout_height="28dp"
-                android:src="@android:drawable/ic_menu_manage"
+                android:src="@drawable/account"
                 app:tint="#000000"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Profile"
+                android:textStyle="bold"
                 android:textColor="#000000"/>
         </LinearLayout>
 

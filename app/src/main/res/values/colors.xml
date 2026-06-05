@@ -1,6 +1,9 @@
 <resources>
-    <color name="bg">#0B0F1A</color>
+    <color name="bg">#333659</color>
     <color name="primary">#7C4DFF</color>
     <color name="text">#FFFFFF</color>
     <color name="textMuted">#B3FFFFFF</color>
+    <color name="black">#B3000000</color>
+    <color name="white">#FFFFFF</color>
+
 </resources>

@@ -40,6 +40,7 @@ android {
 }
 
 dependencies {
+    implementation(libs.androidx.cardview)
     testImplementation("junit:junit:4.13.2")
 
     // Instrumented tests (androidTest)
